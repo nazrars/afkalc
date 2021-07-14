@@ -1,15 +1,15 @@
 {
-  "simulate": "Simulate",
-  "current-tree": "Current tree",
+  "simulate": "Simular",
+  "current-tree": "Árvore atual",
   "hp": "HP",
   "hpPerc": "HP%",
   "atk": "ATK",
   "atkPerc": "ATK%",
   "def": "DEF",
   "defPerc": "DEF%",
-  "acc": "ACC",
-  "dodge": "DODGE",
-  "haste": "HASTE",
+  "acc": "PRECIS",
+  "dodge": "ESQUIVA",
+  "haste": "PRESSA",
   "crit": "CRIT",
-  "ll": "LL"
+  "ll": "SS"
 }
