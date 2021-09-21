@@ -29,7 +29,7 @@
   "spendings": "Coûts",
   "sponsors": "Sponsors",
   "add": "Ajouter",
-  "has-dimensional-key": "Has a dimensional key",
+  "has-dimensional-key": "Utilise une clé cosmique",
   "menu": {
     "home": "Accueil",
     "signature-item": "Emblèmes",
@@ -159,9 +159,9 @@
   },
   "concept": {
     "si": "SI",
-    "siUnlocked": "SI Unlocked",
+    "siUnlocked": "SI déverrouillé",
     "fi": "Meuble",
     "ascend": "Ascension",
-    "engrave": "Engrave"
+    "engrave": "Gravure"
   }
 }
