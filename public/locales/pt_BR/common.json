@@ -29,7 +29,7 @@
   "spendings": "Custos",
   "sponsors": "Patrocinadores",
   "add": "Adicionar",
-  "has-dimensional-key": "Has a dimensional key",
+  "has-dimensional-key": "Tem uma chave dimensional",
   "menu": {
     "home": "Início",
     "signature-item": "Item de Assinatura",
@@ -144,22 +144,22 @@
     "conviction": "Convicção de Dura",
     "barricade": "A Barricada",
     "waistband": "Cinto da Resiliência",
-    "chaosbringer": "Chaos Bringer",
+    "chaosbringer": "Criador de Caos",
     "carnage": "Carnificina",
     "windbinder": "Magia dos Ventos",
     "warden": "Guardião do Arcano",
     "tidebearer": "Portador da Maré",
-    "seraphictide": "Seraphic Tide",
+    "seraphictide": "Maré Etérea",
     "shroud": "Sudário Verdejante",
     "verdantlongbow": "Arco Verdejante",
     "pauldronofburningfury": "Brafoneira da Fúria Ardente",
     "lifeslimit": "Limite de vida",
     "wingedwarden": "Guardião Alado",
-    "theoceanicstrings": "The Oceanic Strings"
+    "theoceanicstrings": "Cordas Oceânicas"
   },
   "concept": {
     "si": "SI",
-    "siUnlocked": "SI Unlocked",
+    "siUnlocked": "SI desbloqueado",
     "fi": "MOB",
     "ascend": "Ascensão",
     "engrave": "Engrave"
