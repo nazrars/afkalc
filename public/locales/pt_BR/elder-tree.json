@@ -7,9 +7,9 @@
   "atk.pr": "ATK%",
   "arm": "DEF",
   "arm.pr": "DEF%",
-  "hit": "ACC",
-  "dodg": "DODGE",
-  "mspd": "HASTE",
+  "hit": "PRECIS",
+  "dodg": "ESQUIVA",
+  "mspd": "PRESSA",
   "crit": "CRIT",
-  "lfs": "LL"
+  "lfs": "SS"
 }
