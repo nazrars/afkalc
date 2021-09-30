@@ -31,6 +31,10 @@
   "add": "Adicionar",
   "has-dimensional-key": "Tem uma chave dimensional",
   "menu": {
+    "category-box": "Box",
+    "category-abex": "Abyssal Expedition",
+    "category-calc": "Calculation tools",
+    "category-misc": "Miscellanous",
     "home": "Início",
     "signature-item": "Item de Assinatura",
     "elite-summon": "Invocação Elite",
@@ -41,7 +45,7 @@
     "item-cost": "Custo do Item",
     "priority-list": "Lista de Prioridades",
     "credit": "Créditos",
-    "abex-relic": "Relíquias da Expedição Abissal",
+    "abex-relic": "Relic Loots",
     "abex-relic-sell": "Relíquias para vender",
     "logout": "Sair",
     "settings": "Configurações & Privacidade",
@@ -68,7 +72,8 @@
   },
   "improvment": {
     "t1": "T1",
-    "t2": "T2"
+    "t2": "T2",
+    "t3": "T3"
   },
   "duration": {
     "2-hours": "2 Horas",
@@ -132,7 +137,9 @@
     "t1-stone": "Pedra T1",
     "t2-stone": "Pedra T2",
     "twisted-essence": "Essência Retorcida",
-    "wilder-emblem": "Emblema de Selvagens"
+    "wilder-emblem": "Emblema de Selvagens",
+    "elemental-shard": "Elemental Shard",
+    "elemental-core": "Elemental Core"
   },
   "artifact": {
     "grace": "Graça de Dura",
