@@ -31,6 +31,10 @@
   "add": "Add",
   "has-dimensional-key": "Has a dimensional key",
   "menu": {
+    "category-box": "Box",
+    "category-abex": "Abyssal Expedition",
+    "category-calc": "Calculation tools",
+    "category-misc": "Miscellanous",
     "home": "Home",
     "signature-item": "SI Emblem",
     "elite-summon": "Elite Summon",
@@ -41,7 +45,7 @@
     "item-cost": "Item Cost",
     "priority-list": "Priority List",
     "credit": "Credits",
-    "abex-relic": "Abyssal Expedition Relics",
+    "abex-relic": "Relic Loots",
     "abex-relic-sell": "Relics to sell",
     "logout": "Logout",
     "settings": "Settings & Privacy",
@@ -68,7 +72,8 @@
   },
   "improvment": {
     "t1": "T1",
-    "t2": "T2"
+    "t2": "T2",
+    "t3": "T3"
   },
   "duration": {
     "2-hours": "2 Hours",
@@ -132,7 +137,9 @@
     "t1-stone": "T1 stone",
     "t2-stone": "T2 stone",
     "twisted-essence": "Twisted essence",
-    "wilder-emblem": "Wilder emblem"
+    "wilder-emblem": "Wilder emblem",
+    "elemental-shard": "Elemental Shard",
+    "elemental-core": "Elemental Core"
   },
   "artifact": {
     "grace": "Dura's Grace",
