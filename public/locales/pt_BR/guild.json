@@ -32,6 +32,8 @@
   "confirm-transfer-ownership": "Você tem certeza que deseja transferir a liderança?",
   "title-abex": "Expedição Abissal",
   "label-never": "nunca",
+  "tiers-list-ko-players": "Jogadores que não validaram o herói",
+  "tiers-list-ok-players": "Jogadores que validaram o herói",
   "label-away-time-limit": "Tempo limite de ausência (hh:mm)",
   "label-farm-limit": "Limite de farm",
   "label-tiles-t1-limit": "Limite de T1",
