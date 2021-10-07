@@ -1,15 +1,15 @@
 {
   "abex-relic-sell-desc": "Calculator for relic to sell",
-  "confirm-reset-box": "This will reset all your existing data, do you really want to continue?",
-  "reset-box": "Reset The Box",
+  "confirm-reset-box": "سيؤدي هذا إلى إعادة تعيين جميع بياناتك الموجودة، هل تريد الاستمرار؟",
+  "reset-box": "إعادة تعيين الصندوق",
   "help": "Enter the relics you have unlocked, enter your goals, enter the relics from your inventory. A chip will appear to indicate the ones you don't need anymore",
-  "label-goal": "Goal",
-  "label-current": "Current",
-  "label-inventory": "Inventory",
-  "elevation-level-0": "None",
-  "elevation-level-1": "Common",
-  "elevation-level-2": "Rare",
-  "elevation-level-3": "Elite",
-  "elevation-level-4": "Legendary",
-  "elevation-level-5": "Mythic"
+  "label-goal": "الهدف",
+  "label-current": "الحالي",
+  "label-inventory": "المخزون",
+  "elevation-level-0": "لا شَيْء",
+  "elevation-level-1": "شائع",
+  "elevation-level-2": "نادر",
+  "elevation-level-3": "نخبة",
+  "elevation-level-4": "اسطوري",
+  "elevation-level-5": "خرافي"
 }
