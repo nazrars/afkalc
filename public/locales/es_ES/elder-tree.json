@@ -1,15 +1,15 @@
 {
-  "simulate": "Simulate",
-  "current-tree": "Current tree",
+  "simulate": "Simular",
+  "current-tree": "Árbol actual",
   "hp": "HP",
   "hp.pr": "HP%",
   "atk": "ATK",
   "atk.pr": "ATK%",
   "arm": "DEF",
   "arm.pr": "DEF%",
-  "hit": "ACC",
-  "dodg": "DODGE",
-  "mspd": "HASTE",
+  "hit": "PRE",
+  "dodg": "EVASIÓN",
+  "mspd": "VEL",
   "crit": "CRIT",
   "lfs": "LL"
 }
