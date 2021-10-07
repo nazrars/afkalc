@@ -1,10 +1,10 @@
 {
-  "help-title": "This tool is aimed to give you how many diamonds you should use daily on the fast reward feature.",
-  "help-credit": "Credit to <who /> on <where />",
-  "diamond": "diamonds",
-  "form-title": "Enter your current progression",
-  "vip-level": "Your VIP level",
-  "player-level": "Your player level",
+  "help-title": "Esta herramienta sirve para mostrarte la cantidad de diamantes que debes utilizar diariamente con las recompensas rápidas.",
+  "help-credit": "Crédito a <who /> en <where />",
+  "diamond": "diamantes",
+  "form-title": "Introduce tu progresión actual",
+  "vip-level": "Tu nivel VIP",
+  "player-level": "Tu nivel de jugador",
   "campaign-level": "Campaign level (eg. 34-40)",
   "result-title": "You should use fast reward with:"
 }
