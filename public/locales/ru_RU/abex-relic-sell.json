@@ -1,15 +1,15 @@
 {
-  "abex-relic-sell-desc": "Калькулятор стоимости продажи реликвий",
-  "confirm-reset-box": "Это сбросит все существующие данные, вы действительно хотите продолжить?",
+  "abex-relic-sell-desc": "Калькулятор продажи для реликвий",
+  "confirm-reset-box": "Это сбросит все ваши существующие данные, вы действительно хотите продолжить?",
   "reset-box": "Сбросить настройки",
   "help": "Выберите открытые реликвии, отметьте желаемые, выберите реликвии имеющиеся в наличии. Метка появится на предметах которые можно продать",
   "label-goal": "Цель",
-  "label-current": "Current",
-  "label-inventory": "Inventory",
-  "elevation-level-0": "None",
-  "elevation-level-1": "Common",
-  "elevation-level-2": "Rare",
-  "elevation-level-3": "Elite",
-  "elevation-level-4": "Legendary",
-  "elevation-level-5": "Mythic"
+  "label-current": "Текущее",
+  "label-inventory": "Инвентарь",
+  "elevation-level-0": "Ничего",
+  "elevation-level-1": "Обычная",
+  "elevation-level-2": "Редкая",
+  "elevation-level-3": "Элитный",
+  "elevation-level-4": "Легендарный",
+  "elevation-level-5": "Мифический"
 }
