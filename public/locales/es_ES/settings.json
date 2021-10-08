@@ -1,13 +1,13 @@
 {
-  "confirm-remove": "All your data will be permanently erased. Do you really want to continue?",
-  "label-remove-account": "Remove my account",
-  "label-no-need-rgpd": "Since you are not logged in, the application does not store any of your personnal data",
-  "label-rgpd": "By logging in, you provide your email to AFKalc. It is never used but to allow your logging in. The data stored by the application are everything linked to : the abyssal expedition, the hero list, your campaign and vip progression, your priority lists and your favorites. You can delete your account anytime on the page.",
-  "label-download-data": "Download my data",
-  "user-data": "Privacy",
-  "player-name": "Player name",
-  "title-change-password": "Change my password",
-  "label-old-password": "Old password",
-  "label-new-password": "New password",
-  "title-link-account": "Link my account"
+  "confirm-remove": "Todos tus datos serán borrados permanentemente. ¿Quieres continuar?",
+  "label-remove-account": "Eliminar mi cuenta",
+  "label-no-need-rgpd": "Dado que no está conectado, la aplicación no almacena ninguno de sus datos personales",
+  "label-rgpd": "Al iniciar sesión, proporcionas tu correo electrónico a AFKalc. Solo se utiliza para permitir tu inicio de sesión. Los datos almacenados por la aplicación son todo lo vinculado a: la expedición abisal, la lista de héroes, tu progresión en campaña y vip, tus listas de prioridades y tus favoritos. Puedes eliminar tu cuenta en cualquier momento en la página.",
+  "label-download-data": "Descargar mis datos",
+  "user-data": "Privacidad",
+  "player-name": "Nombre de jugador",
+  "title-change-password": "Cambiar mi contraseña",
+  "label-old-password": "Contraseña Antigua",
+  "label-new-password": "Contraseña nueva",
+  "title-link-account": "Vincular mi cuenta"
 }
