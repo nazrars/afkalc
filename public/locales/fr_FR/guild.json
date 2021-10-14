@@ -43,5 +43,9 @@
   "label-tiles-t5-limit": "Limite T5",
   "label-tiles-t6-limit": "Limite T6",
   "label-tiles-t7-limit": "Limite T7",
-  "label-tiles-t8-limit": "Limite T8"
+  "label-tiles-t8-limit": "Limite T8",
+  "title-join-specific-guild": "Rejoindre {{name}}",
+  "label-guild-leader": "Chef de guilde",
+  "label-member-count": "Nombre de membres",
+  "label-join-guild": "Rejoindre la guilde"
 }
