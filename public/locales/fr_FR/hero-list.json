@@ -2,7 +2,6 @@
   "login-needed": "Vous devez être authentifié pour partager votre liste.",
   "somebodys-list": "Voir la liste de quelqu'un d'autre",
   "label-share": "Partagez votre liste de héro avec cette URL:",
-  "label-copied": "Lien copié",
   "label-si": "SI",
   "label-fi": "Meuble",
   "label-empty": "Aucun héros ne correspond à ces filtres",
@@ -22,5 +21,6 @@
   "moved": "Le format d'URL a changé. Merci de mettre à jour vos liens avant la désactiviation",
   "hero-list-of": "Liste de héros de {{userName}}",
   "hero-list-of-unknown": "Liste de héros",
-  "last-update": "Dernière mise à jour :"
+  "last-update": "Dernière mise à jour :",
+  "label-name-filter": "Rechercher un héros par nom"
 }
