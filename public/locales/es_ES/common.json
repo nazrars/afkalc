@@ -1,5 +1,6 @@
 {
   "welcome": "Bienvenido a Afkalc, la herramienta de cálculo para AFK Arena",
+  "label-copied": "Enlace copiado",
   "require-login": "Debes iniciar sesión para utilizar ésta función",
   "credit-desc": "Por su ayuda en la recopilación de datos, creación de excelentes guías y el desarrollo de la aplicación, gracias a:",
   "temporary-account": "Ha iniciado sesión como invitado. Sus cambios sólo estarán disponibles temporalmente.",
@@ -169,6 +170,6 @@
     "siUnlocked": "SI desbloqueado",
     "fi": "Muebles",
     "ascend": "Ascensión",
-    "engrave": "Grabado"
+    "engrave": "Grabados"
   }
 }
