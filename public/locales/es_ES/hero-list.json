@@ -22,5 +22,5 @@
   "hero-list-of": "Lista de héroes de {{userName}}",
   "hero-list-of-unknown": "Lista de héroes",
   "last-update": "Última actualizacion:",
-  "label-name-filter": "Search hero by name"
+  "label-name-filter": "Buscar héroe por nombre"
 }
