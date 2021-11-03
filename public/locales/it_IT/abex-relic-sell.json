@@ -1,7 +1,7 @@
 {
-  "abex-relic-sell-desc": "Calculator for relic to sell",
-  "confirm-reset-box": "This will reset all your existing data, do you really want to continue?",
-  "reset-box": "Reset The Box",
+  "abex-relic-sell-desc": "Calcolatore vendita reliquie benedette",
+  "confirm-reset-box": "Tutti i tuoi dati verranno ripristinati, continuare?",
+  "reset-box": "Ripristina lista ",
   "help": "Enter the relics you have unlocked, enter your goals, enter the relics from your inventory. A chip will appear to indicate the ones you don't need anymore",
   "label-goal": "Goal",
   "label-current": "Current",
