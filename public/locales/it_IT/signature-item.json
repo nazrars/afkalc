@@ -1,11 +1,11 @@
 {
-  "help": "This tool is aimed to give you the remaining emblems you need to get to the specified stages",
-  "form-title": "First, set your character informations",
-  "item-primordial-emblem": "Primordial emblem",
-  "item-amplifying-emblem": "Amplifying emblem",
-  "item-faction-emblem": "Faction emblem",
-  "item-celest-Hypogean-emblem": "Celest/Hypogean emblem",
+  "help": "Questo strumento ti fornisce il numero rimanente di emblemi per le varie fasi di potenziamento",
+  "form-title": "Innanzitutto, inserisci le caratteristiche dei tuoi eroi",
+  "item-primordial-emblem": "Emblemi primordiali",
+  "item-amplifying-emblem": "Emblemi Amplificanti",
+  "item-faction-emblem": "Emblemi fazione",
+  "item-celest-Hypogean-emblem": "Emblemi celestiali/ipogei",
   "label-si": "SI +{{si}}",
-  "label-current-si": "Current SI level",
-  "label-target-si": "Target SI level"
+  "label-current-si": "Livello oggetto distintivo",
+  "label-target-si": "Target livello oggetto distintivo"
 }
