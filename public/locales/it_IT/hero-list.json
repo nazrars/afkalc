@@ -19,8 +19,8 @@
   "faction-kingsTower": "King's Tower",
   "faction-misc": "Arena & campaign",
   "moved": "The URL format has changed. Please update your links before deactivation",
-  "hero-list-of": "{{userName}}'s hero list",
-  "hero-list-of-unknown": "Hero list",
-  "last-update": "Last update:",
-  "label-name-filter": "Search hero by name"
+  "hero-list-of": "Lista eroi di {{userName}}",
+  "hero-list-of-unknown": "Lista eroi",
+  "last-update": "Ultimo aggiornamento:",
+  "label-name-filter": "Cerca eroe per nome"
 }
