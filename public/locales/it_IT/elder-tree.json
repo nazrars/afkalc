@@ -1,6 +1,6 @@
 {
-  "simulate": "Simulate",
-  "current-tree": "Current tree",
+  "simulate": "Simula",
+  "current-tree": "Albero corrente",
   "hp": "HP",
   "hp.pr": "HP%",
   "atk": "ATK",
@@ -9,7 +9,7 @@
   "arm.pr": "DEF%",
   "hit": "ACC",
   "dodg": "DODGE",
-  "mspd": "HASTE",
+  "mspd": "FRETTA",
   "crit": "CRIT",
   "lfs": "LL"
 }
