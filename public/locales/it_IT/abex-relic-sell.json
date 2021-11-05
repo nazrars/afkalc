@@ -1,8 +1,8 @@
 {
   "abex-relic-sell-desc": "Calcolatore vendita reliquie benedette",
   "confirm-reset-box": "Tutti i tuoi dati verranno ripristinati, continuare?",
-  "reset-box": "Ripristina lista ",
-  "help": "Inserisci relique sbloccate, i tuoi obbiettivi e le reliquie nel tuo inventario. Una spunta apparirà indicando quelle di cui non hai più bisogno",
+  "reset-box": "Ripristina lista",
+  "help": "Inserisci reliquie sbloccate, i tuoi obbiettivi e le reliquie nel tuo inventario. Una spunta apparirà indicando quelle di cui non hai più bisogno",
   "label-goal": "Obbiettivo",
   "label-current": "Sbloccate",
   "label-inventory": "Inventario",
