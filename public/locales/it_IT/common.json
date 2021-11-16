@@ -44,7 +44,7 @@
     "fast-reward": "Premi veloci",
     "top-team": "Squadra migliore",
     "item-cost": "Costo oggetto",
-    "priority-list": "Lista Priorità",
+    "priority-list": "Tiers List",
     "credit": "Crediti",
     "abex-relic": "Bottino reliquie",
     "abex-relic-sell": "Reliquie da vendere",
@@ -56,7 +56,9 @@
     "elder-tree": "Albero di sambuco",
     "short-hero-list": "Eroi",
     "short-top-team": "Squadre",
-    "short-item-cost": "Costo oggetto"
+    "short-item-cost": "Costo oggetto",
+    "short-guild": "Guild",
+    "short-priority-list": "Tiers List"
   },
   "heroClass": {
     "warrior": "Guerriero",
