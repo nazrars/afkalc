@@ -44,7 +44,7 @@
     "fast-reward": "Recompensas Rápidas",
     "top-team": "Mejor equipo",
     "item-cost": "Coste de los artículos",
-    "priority-list": "Lista de Prioridades",
+    "priority-list": "Listas de prioridades",
     "credit": "Agradecimientos",
     "abex-relic": "Saqueo de reliquias",
     "abex-relic-sell": "Reliquias para vender",
@@ -56,7 +56,9 @@
     "elder-tree": "Árbol Anciano",
     "short-hero-list": "Héroes",
     "short-top-team": "Equipos",
-    "short-item-cost": "Comparación"
+    "short-item-cost": "Comparación",
+    "short-guild": "Gremio",
+    "short-priority-list": "Listas de prioridades"
   },
   "heroClass": {
     "warrior": "Guerrero",
