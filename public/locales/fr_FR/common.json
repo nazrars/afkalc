@@ -44,7 +44,7 @@
     "fast-reward": "Récompenses rapides",
     "top-team": "Top compo",
     "item-cost": "Coût des objets",
-    "priority-list": "Listes de priorité",
+    "priority-list": "Tiers List",
     "credit": "Crédits",
     "abex-relic": "Butin de relique",
     "abex-relic-sell": "Reliques à vendre",
@@ -56,7 +56,9 @@
     "elder-tree": "Arbre des anciens",
     "short-hero-list": "Héros",
     "short-top-team": "Équipes",
-    "short-item-cost": "Coût"
+    "short-item-cost": "Coût",
+    "short-guild": "Guild",
+    "short-priority-list": "Tiers List"
   },
   "heroClass": {
     "warrior": "Guerrier",
