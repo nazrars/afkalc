@@ -44,7 +44,7 @@
     "fast-reward": "Recompensas Rápidas",
     "top-team": "Monte o Time",
     "item-cost": "Custo do Item",
-    "priority-list": "Lista de Prioridades",
+    "priority-list": "Tiers List",
     "credit": "Créditos",
     "abex-relic": "Cidades e Blocos",
     "abex-relic-sell": "Relíquias",
@@ -56,7 +56,9 @@
     "elder-tree": "Árvore Antiga",
     "short-hero-list": "Heróis",
     "short-top-team": "Times",
-    "short-item-cost": "Custo do Item"
+    "short-item-cost": "Custo do Item",
+    "short-guild": "Guild",
+    "short-priority-list": "Tiers List"
   },
   "heroClass": {
     "warrior": "Guerreiro",
