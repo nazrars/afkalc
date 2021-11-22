@@ -44,7 +44,7 @@
     "fast-reward": "Premi veloci",
     "top-team": "Squadra migliore",
     "item-cost": "Costo oggetto",
-    "priority-list": "Tiers List",
+    "priority-list": "Classifica",
     "credit": "Crediti",
     "abex-relic": "Bottino reliquie",
     "abex-relic-sell": "Reliquie da vendere",
@@ -57,8 +57,8 @@
     "short-hero-list": "Eroi",
     "short-top-team": "Squadre",
     "short-item-cost": "Costo oggetto",
-    "short-guild": "Guild",
-    "short-priority-list": "Tiers List"
+    "short-guild": "Gilda",
+    "short-priority-list": "Classifica"
   },
   "heroClass": {
     "warrior": "Guerriero",
