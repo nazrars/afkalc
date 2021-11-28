@@ -32,5 +32,8 @@
   "label-add-tiers-list": "Nouvelle liste de héros",
   "label-add-elder-tree-list": "Nouvelle liste d'arbre des anciens",
   "level": "Niveau",
-  "checked-items-hidden": "Les éléments terminés sont masqués. Cliquez sur la case à cocher pour tous les afficher"
+  "checked-items-hidden": "Les éléments terminés sont masqués. Cliquez sur la case à cocher pour tous les afficher",
+  "sort-by-name": "Sort by name",
+  "sort-by-last-update": "Sort by last update",
+  "sort-by-percentage": "Sort by percentage"
 }
