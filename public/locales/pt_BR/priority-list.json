@@ -33,7 +33,7 @@
   "label-add-elder-tree-list": "Nova lista de Árvore Anciã",
   "level": "Nível",
   "checked-items-hidden": "Os itens completados estão ocultos. Clique na caixa de seleção para mostrar todos",
-  "sort-by-name": "Sort by name",
-  "sort-by-last-update": "Sort by last update",
-  "sort-by-percentage": "Sort by percentage"
+  "sort-by-name": "Ordenar por nome",
+  "sort-by-last-update": "Ordenar pela última atualização",
+  "sort-by-percentage": "Ordenar por porcentagem"
 }
